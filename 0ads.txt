@@ -1,7 +1,12 @@
 [Adblock Plus 2.8]
-! Expires: never
-! Title: 0ads
+! Version: 0.1
+! Title: 0ads filter list
+! Last modified: today
+! Expires: 30 days (update frequency)
+! Homepage: 
 !
+||github.com/7eam/0ads^
+(all the rest of your custom filters)
 ! Amazing filter list subscription.
 !
 ! Ad and Tracker Blocking >>>>>
